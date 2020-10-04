@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Cosmosic</string>
+    <string name="carbon_monoxide">
+        What is Carbon Monoxide? \n
+        Colorless, odorless, and poisonous, carbon monoxide is a gas that comes from burning fossil fuels, like the gas in cars, and burning vegetation. Carbon monoxide is not one of the gases that is causing global warming, but it is one of the air pollutants that leads to smog. These data sets show monthly averages of carbon monoxide across the Earth measured by the Measurements of Pollution In The Troposphere (MOPITT) sensor on NASA s Terra satellite. Different colors show different amounts of the gas in the troposphere, the layer of the atmosphere closest to the Earth s surface, at an altitude of about 12,000 feet.
+    </string>
+
+    <string name="mision">
+         A \n
+        ACE \n
+AIM \n
+Analog Missions \n
+Apollo \n
+Apollo-Soyuz \n
+Aqua \n
+Aquarius \n
+ARCTAS \n
+Artemis Program (Human Spaceflight — Moon to Mars) \n
+ARTEMIS and THEMIS Science Missions \n
+ASTRO-1 \n
+ASTRO-2 \n
+Astro-E2 (Suzaku) \n
+ATTREX \n
+Aura \n
+    </string>
+</resources>
