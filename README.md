@@ -6,6 +6,9 @@ App’s Home and City feature provides information and shows how NASA developed 
 Another great feature of this app is Fire Map which shows the locations of actively burning fires around the world on a monthly basis, based on observations from the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA's Terra satellite. As mentioned above,  the user will give a real-time alert and pieces of information about Fires if the user gives permission to have his/her device location. Lastly, the app also has some knowledgeable features like Mars (images), SpaceCraft Infos, NASA’s Missions which will give complete knowledge about our planet Earth and help new learners/researchers to deeply understand how our Earth is changing and a possibility of what might happen in near future!
 
 Contact with us:
+
 Abdul Momen Miah - https://github.com/momenmian
+
 MD. Akhtaruzzaman Ashik - https://github.com/Ashik640
+
 Neeladri Bhowmik - https://github.com/Neeladri-star
